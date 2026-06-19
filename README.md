@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+<br># Hi there, I'm Sanampalli PavanKalyan 👋<br><br>An aspiring "AI & Data Science Engineer" passionate about building, optimizing, and deploying intelligent full-stack applications. I bridge the gap between complex machine learning models and production-ready software to solve real-world problems.<br><br>---<br><br>### 🚀 About Me<br><br>- 🎓 **Education:** B.Tech in Computer Science Engineering (AI & Data Science) at Siddartha Institute of Science and Technology.<br>- 💼 **Experience:** Former Data Science Intern at CODEC Technologies<br>- 🛠️ **Current Focus:** Deep Learning architectures, Edge AI optimization, and building robust FastAPI + React full-stack applications.<br>- 🎯 **Goal:** Leveraging technical expertise to contribute to innovative, product-driven AI solutions.<br><br>---<br><br>### 🛠️ Technical Toolkit<br><br>| Category | Technologies & Tools |<br>| :--- | :--- |<br>| **Languages** | Python, Java, SQL |<br>| **AI / ML & Deep Learning** | TensorFlow, PyTorch, CNNs, Transfer Learning, Computer Vision |<br>| **Data Science & Analytics** | Pandas, NumPy, Matplotlib, Exploratory Data Analysis (EDA), Power BI |<br>| **Frameworks & Tools** | FastAPI, React, Streamlit, Git, GitHub, VS Code, Jupyter |<br><br>---<br><br>### 🌟 Featured Project<br><br>#### 🌿 [Plant Disease Detection & Classification](https://github.com/Sanampalli%20Pavan%20Kalyan04/Plant-disease-detection.git)<br>An end-to-end deep learning and full-stack application engineered for precision agriculture.<br>- **The Core:** Trained a **ResNet50** model using Transfer Learning on **70,000+ images**, achieving **95% accuracy** across 38 distinct disease classes.<br>- **Edge AI Ready:** Applied quantization techniques to **reduce model size by 70%** for seamless deployment on resource-constrained IoT devices.<br>- **Full-Stack Implementation:** Built a production-ready application featuring a **FastAPI** backend and a **React** frontend to deliver real-time diagnostic reports and treatment advice to farmers.<br><br>---<br><br>### 📈 Professional Experience Highlights<br><br>**Data Science Intern | CODEC Technologies** *(Aug 2025 - Oct 2025)*<br>- Conducted advanced EDA and Pareto analysis on sales data, discovering that the top 10% of products drove 45% of total revenue.<br>- Generated seasonal and promotional insights to optimize inventory planning, helping stakeholders mitigate stockouts.<br><br>---<br><br>### 🤝 Connect with Me<br><br>Let's collaborate or chat about AI, Data Science, or software engineering!<br><br>📬 **Email:** [sanampallipavankalyan36@gmail.com](mailto:sanampallipavankalyan36@gmail.com)  <br>🔗 **LinkedIn:** [linkedin.com/in/sanampalli-pavankalyan](https://linkedin.com/in/sanampalli-pavankalyan)  <br>💻 **GitHub:** [github.com/Sanampalli Pavan Kalyan04](https://github.com/Sanampalli%20Pavan%20Kalyan04)
 
-<!--
-**SanampalliPavanKalyan04/Sanampallipavankalyan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sanampalli PavanKalyan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanampallipavankalyan36@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sanampallipavankalyan04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sanampallipavankalyan04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sanampallipavankalyan04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Sanampallipavankalyan04&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
