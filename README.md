@@ -40,16 +40,16 @@ EDA · Data Cleaning & Preprocessing · Statistical Analysis · Pareto & YoY Ana
 ### 🌟 Featured Projects
 
 #### 🌿 [Plant Disease Detection & Classification](https://github.com/SanampalliPavanKalyan04/Plant-disease-detection)
-*Python · TensorFlow · ResNet50 · CNN · FastAPI · Streamlit · React*
-An end-to-end computer vision system that helps farmers identify crop diseases early and get real-time treatment recommendations.
+*Python · TensorFlow · ResNet50 · CNN · FastAPI · Streamlit · React
+-An end-to-end computer vision system that helps farmers identify crop diseases early and get real-time treatment recommendations.
 - Trained on 70,000+ images across 38 disease categories from the PlantVillage dataset, using OpenCV augmentation (rotation, zoom, flips) to handle real-world lighting variance and prevent overfitting.
 - Fine-tuned a ResNet50-based CNN via transfer learning, reaching **95% accuracy** and a **0.97 weighted F1-score**, optimized for a low false-negative rate on early-stage infections.
 - Applied post-training quantization to cut model size by **70%**, enabling efficient inference on low-cost edge/IoT devices.
 - Shipped a production-ready **FastAPI** backend with both a Streamlit prototype and a **React** frontend, validated with feedback from 50+ agricultural stakeholders.
 
 #### 📊 [E-commerce Sales Analytics Dashboard](https://github.com/SanampalliPavanKalyan04)
-*SQL · Power BI · DAX*
-An interactive BI solution analyzing sales, profit, products, and regional performance.
+*SQL · Power BI · DAX
+-An interactive BI solution analyzing sales, profit, products, and regional performance.
 - Designed a relational schema and star-schema data model connecting Sales, Customers, Products, and Date tables.
 - Built DAX measures for Total Sales, Profit Margin, Average Order Value, and Year-over-Year Growth.
 - Delivered slicers, KPI cards, and drill-down visuals, cross-validating every Power BI calculation against SQL query results for accuracy.
